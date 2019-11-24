@@ -1,0 +1,6 @@
+com\pku\bookController\BookControllerApplication.class
+com\pku\bookController\ServletInitializer.class
+com\pku\bookController\book\BookController.class
+com\pku\bookController\login\LoginController.class
+com\pku\bookController\user\UserController.class
+com\pku\bookController\log\LogController.class

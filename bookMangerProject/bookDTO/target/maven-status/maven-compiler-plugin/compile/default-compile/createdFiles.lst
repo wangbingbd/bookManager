@@ -1,0 +1,13 @@
+com\pku\common\constant\PkuConstant.class
+com\pku\controller\log\LogWebDTO.class
+com\pku\controller\login\LoginDTO.class
+com\pku\book\BookDTO.class
+com\pku\common\InvokeResult.class
+com\pku\common\WebDTO.class
+com\pku\book\UploadFileDTO.class
+com\pku\book\UserDTO.class
+com\pku\common\AbstractDTO.class
+com\pku\common\BaseDTO.class
+com\pku\common\InterfaceDTO.class
+com\pku\App.class
+com\pku\book\OnlineReadDTO.class
